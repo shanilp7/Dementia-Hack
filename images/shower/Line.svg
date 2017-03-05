@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="1064px" viewBox="0 0 60 1064" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="User-screen" transform="translate(-75.000000, -171.000000)">
+            <g id="Group-4" transform="translate(77.000000, 173.000000)">
+                <g id="Group-3" stroke="#2BB285" stroke-width="5">
+                    <path d="M29.5,1 L29.5,1059.00047" id="Line" stroke-linecap="square"></path>
+                    <ellipse id="Oval-2-Copy-4" fill="#F7F7F7" cx="27.740253" cy="117.002784" rx="26.8521168" ry="26.8521168"></ellipse>
+                    <ellipse id="Oval-2-Copy-5" fill="#F7F7F7" cx="27.740253" cy="315.424019" rx="26.8521168" ry="26.8521168"></ellipse>
+                    <ellipse id="Oval-2-Copy-6" fill="#F7F7F7" cx="27.740253" cy="513.845254" rx="26.8521168" ry="26.8521168"></ellipse>
+                    <ellipse id="Oval-2-Copy-7" fill="#F7F7F7" cx="27.740253" cy="737.542001" rx="26.8521168" ry="26.8521168"></ellipse>
+                    <ellipse id="Oval-2-Copy-8" fill="#F7F7F7" cx="27.740253" cy="935.963235" rx="26.8521168" ry="26.8521168"></ellipse>
+                </g>
+                <text id="1" font-family="Roboto-Medium, Roboto" font-size="36" font-weight="400" fill="#303030">
+                    <tspan x="17.240253" y="129.002784">1</tspan>
+                </text>
+                <text id="2" font-family="Roboto-Medium, Roboto" font-size="36" font-weight="400" fill="#303030">
+                    <tspan x="17.240253" y="327.424019">2</tspan>
+                </text>
+                <text id="3" font-family="Roboto-Medium, Roboto" font-size="36" font-weight="400" fill="#303030">
+                    <tspan x="17.240253" y="525.845254">3</tspan>
+                </text>
+                <text id="4" font-family="Roboto-Medium, Roboto" font-size="36" font-weight="400" fill="#303030">
+                    <tspan x="17.240253" y="749.542001">4</tspan>
+                </text>
+                <text id="5" font-family="Roboto-Medium, Roboto" font-size="36" font-weight="400" fill="#303030">
+                    <tspan x="17.240253" y="947.963235">5</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

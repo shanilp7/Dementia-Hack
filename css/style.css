@@ -1,0 +1,292 @@
+
+
+html body {
+    background-color: #F7F7F7;
+
+    margin: auto 0;
+}
+
+
+.everything{
+
+    width: 768px;
+    margin: auto 0;
+}
+
+ul {
+    position: relative;
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+
+
+a:hover {
+    color: #104d19;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    padding: 8px;
+    background-color: #2EB78A;
+    color: #fff;
+    text-decoration: none;
+    width: 150px;
+    text-align: center;
+    border-radius: 6px 6px 0px 0px;
+}
+
+ul .active {
+    background-color: #f7f7f7;
+    color: #2EB78A;
+}
+
+
+/*font styles mang all the good stuff*/
+
+.font-white {
+    color: white;
+}
+
+
+darkgreen {
+    color: #1b6d27;
+}
+
+/*end of font styles*/
+
+
+/* Style the accordion panel. Note: hidden by default */
+
+div.panel {
+    padding: 20px;
+    background-color: white;
+    /*    max-height: 0;*/
+    /*    overflow: hidden;*/
+    transition: max-height 0.2s ease-out;
+}
+
+
+/*end of button css*/
+
+.bio{
+    height: 220px;
+    
+}
+
+.background-green {
+    background-color: #2BB285;
+}
+
+.jumbotron {
+    position: absolute;
+    z-index: -4;
+    width: 100%;
+    height: 260px;
+}
+
+.picture {
+    width: 100%;
+}
+
+.history_log {
+    width: 35px;
+    height: 35px;
+    position: static;
+    float: right;
+}
+
+.log{
+    
+    background-color: #E8F9F3;
+    width: 100%;
+    height: 86px;
+}
+
+.daily_log {
+    background-color: #E8F9F3;
+    float: left;
+    height: 100%;
+}
+
+
+.log_description {
+    display: inline-block;
+    width: 340px;
+    height: 86px;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+.category {
+    width: 100%;
+    background-color: white;
+    border-radius: 6px;
+    padding: 20px;
+    min-height: 160px;
+}
+
+.contact {
+    /*    width: 360px;*/
+}
+
+.add {
+    height: 24px;
+    width: 24px;
+    float: right;
+}
+
+.accordian {
+    border-radius: 6px;
+    padding: 10px 20px 10px 10px;
+}
+
+.padding-top-40 {
+    padding-top: 40px;
+}
+
+.padding-top-20 {
+    padding-top: 20px;
+}
+
+.padding-bottom-20 {
+    padding-bottom: 20px;
+}
+
+.padding-top-5 {
+    padding-top: 5px;
+}
+
+.padding-bottom-5 {
+    padding-bottom: 5px;
+}
+
+.margin-top-20 {
+    margin-top: 20px;
+}
+
+.margin-bottom-20 {
+    margin-bottom: 20px;
+}
+
+.margin-top-40 {
+    margin-top: 40px;
+}
+
+.margin-bottom-40 {
+    margin-bottom: 40px;
+}
+
+.margin-top-5 {
+    margin-top: 5px;
+}
+
+.margin-bottom-5 {
+    margin-bottom: 5px;
+}
+
+
+/*add and save buttons*/
+
+.textBoxOutline {
+    border: 1px solid #1eb384;
+    padding: 8px;
+}
+
+textarea:focus,
+div:focus {
+    outline: none;
+}
+
+
+/*^removestextbox styling and highlights it for both likes and dislikes*/
+
+.likesTransform {
+    opacity: 0;
+}
+
+.transform {
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+}
+
+.likesEditPos {
+    position: absolute;
+    z-index: 2;
+}
+
+.likesSavePos {
+    position: absolute;
+    z-index: 1;
+}
+
+.likesEditTransform {
+    opacity: 0;
+}
+
+
+/*
+.saveTransform {
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+}
+*/
+
+.likesIconContainer {
+    position: relative;
+    left: 30vw;
+}
+
+.dislikesIconContainer {
+    position: relative;
+    left: 30vw;
+}
+
+.dislikesToggleTransform {
+    opacity: 0;
+}
+
+.dislikesTransform {
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+}
+
+
+/*
+.dislikesSaveTransform {
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+}
+*/
+
+.dislikesEditPos {
+    position: absolute;
+    z-index: 2;
+}
+
+.dislikesSavePos {
+    position: absolute;
+    z-index: 1;
+}
+
+.dislikesEditTransform {
+    opacity: 0;
+}
